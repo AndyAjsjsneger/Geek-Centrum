@@ -1,0 +1,16 @@
+Your identification has been saved in /c/Users/EnzoPC/.ssh/id_rsa
+Your public key has been saved in /c/Users/EnzoPC/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:s/UEr1q//p7xa6dWzAARJ43sm5aje/rSxzraievMpAI enzoajsjsneger@gmail.com
+The key's randomart image is:
++---[RSA 4096]----+
+|           .+=.  |
+|            +o.  |
+|          .. .   |
+|           o. .  |
+|        S . o+ + |
+|    E    + +*   +|
+|     .  . ++.o.. |
+|      .  Bo++.+=.|
+|       .o.XXOO*o+|
++----[SHA256]-----+
