@@ -1039,7 +1039,7 @@ h1, h2, h3, h4, h5, h6 {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #f9f9ff;
-  border-left: 2px solid #9820ec;
+  border-left: 2px solid #A9CCE3;
 }
 
 .progress-table-wrap {
@@ -1860,7 +1860,7 @@ header {
 
 .menu-bar span {
   color: #222222;
-  font-size: 24px;
+  font-size: 40px;
 }
 
 .main-menubar {
@@ -1991,15 +1991,15 @@ body:after {
 }
 
 .p1-gradient-bg, body:after, .primary-btn:after {
-  background-image: -moz-linear-gradient(135deg, #000000 0%, #C900FF 100%);
-  background-image: -webkit-linear-gradient(135deg, #000000 0%, #C900FF 100%);
-  background-image: -ms-linear-gradient(135deg, #000000 0%, #C900FF 100%);
+  background-image: -moz-linear-gradient(135deg, #000000 0%, #A9CCE3 100%);
+  background-image: -webkit-linear-gradient(135deg, #000000 0%, #A9CCE3 100%);
+  background-image: -ms-linear-gradient(135deg, #000000 0%, #A9CCE3 100%);
 }
 
 .p2-gradient-bg, .feature-area, .subscription-area, .generic-banner {
-  background-image: -moz-linear-gradient(135deg, #C900FF 0%, #000000 100%);
-  background-image: -webkit-linear-gradient(135deg, #C900FF 0%, #000000 100%);
-  background-image: -ms-linear-gradient(135deg, #C900FF 0%, #000000 100%);
+  background-image: -moz-linear-gradient(135deg, #A9CCE3 0%, #000000 100%);
+  background-image: -webkit-linear-gradient(135deg, #A9CCE3 0%, #000000 100%);
+  background-image: -ms-linear-gradient(135deg, #A9CCE3 0%, #000000 100%);
 }
 
 .p1-gradient-color {
@@ -2119,13 +2119,13 @@ body:after {
 }
 
 .hero-overlay-bg {
-  background: -webkit-linear-gradient(left top, #000000, #C900FF);
+  background: -webkit-linear-gradient(left top, #000000, #A9CCE3);
   /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(bottom right, #000000, #C900FF);
+  background: -o-linear-gradient(bottom right, #000000, #A9CCE3);
   /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(bottom right, #000000, #C900FF);
+  background: -moz-linear-gradient(bottom right, #000000, #A9CCE3);
   /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to bottom right, #000000, #C900FF);
+  background: linear-gradient(to bottom right, #000000, #A9CCE3);
   /* Standard syntax */
   opacity: 0.9;
 }
@@ -2135,21 +2135,21 @@ body:after {
 }
 
 .about-left img {
-  outline: 10px solid #777;
+  outline: 10px solid #A9CCE3;
   outline-offset: -54px;
   border: 44px solid transparent;
   border-width: 15px 10px 85px 85px;
 }
 
 .about-right .lnr {
-  color: #a387ff;
+  color: #A9CCE3;
   font-size: 30px;
 }
 
 .about-right h1 {
   font-size: 36px;
   font-weight: 100;
-  color: #a387ff;
+  color: #A9CCE3;
 }
 
 .about-right h1 span {
@@ -2174,7 +2174,7 @@ body:after {
 }
 
 .about-right .learn-btn:hover {
-  color: #a387ff;
+  color: #A9CCE3;
 }
 
 .single-feature {
@@ -2208,11 +2208,11 @@ body:after {
 .single-fact p {
   font-size: 24px;
   font-weight: 100;
-  color: #a387ff;
+  color: #A9CCE3;
 }
 
 .secvice-area {
-  background: #58006f;
+  background: #A9CCE3;
 }
 
 .secvice-area .single-service:nth-child(2) p {
@@ -2253,7 +2253,7 @@ body:after {
 }
 
 .view-details {
-  color: #a387ff;
+  color: black;
   background: #fff;
   font-weight: 600;
   font-size: 14px;
@@ -2337,7 +2337,7 @@ body:after {
 }
 
 .subscription .info.valid {
-  color: green;
+  color: #A9CCE3;
   text-align: center;
   width: 100%;
 }
@@ -2442,4 +2442,33 @@ body:after {
 
 .switch-wrap p {
   margin: 0;
+}
+
+.mod-logo{
+  margin-left: -120px;
+  flex: auto;
+}
+
+.photo-mujer{
+  padding-left: 40px;
+  padding-top: -10px;
+}
+
+.title-mujer{
+  padding-left: 20%;
+}
+
+.text-mujer{
+  margin-top: -360px;
+  margin-right: 40px;
+  margin-left: 40px;
+  padding-left: 650px;
+  font-size: larger;
+  
+}
+
+.coments-text{
+  margin-left: 40px;
+  margin-top: 100px;
+  margin-right: 40px;
 }
