@@ -2472,3 +2472,12 @@ body:after {
   margin-top: 100px;
   margin-right: 40px;
 }
+
+.agenda-hora{
+  margin-top: 10px;
+}
+
+.titulo-hora{
+  padding-top: 20px;
+  padding-left: 10px;
+}
